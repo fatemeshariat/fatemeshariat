@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatemeshariat
-- 📚 23, bachelor of Industrial Engineering.
+- 📚 25, bachelor of Industrial Engineering.
 - 💻 I’m interested in Math, Physics, Machine Learning, Deep Learning, Text Mining, Web Mining, anything Data Science related!
-- 🌱 I’m currently learning Python, Chinese, Urdu and Mindfulness XD
+- 🌱 I’m currently learning Python, languages and business XD
 
 - 💞️ Would appreciate any collaboration invitation. 
 - 📫 Reach me via https://is.gd/2sJjLm
